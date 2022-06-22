@@ -1,0 +1,23 @@
+XML stands for eXtensible Markup Language
+XML was designed to store and transport data
+
+<?xml version="1.0" encoding="UTF-8"?>  optional.  first  document.
+
+self-closing tag  => <element />
+<!-- This is a comment -->
+
+XMLHttpRequest :
+=>     Update a web page without reloading the page
+=>     Request data from a server - after the page has loaded
+=>     Receive data from a server  - after the page has loaded
+=>     Send data to a server - in the background
+
+
+
+
+
+
+
+
+
+
